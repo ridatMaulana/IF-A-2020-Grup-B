@@ -3,3 +3,12 @@ Sejarah web pertama kali dimulai dari seorang ilmuwan yang berasal dari Inggris,
 Tujuan awal dari Tim Berners yaitu untuk memudahkan para peneliti di tempat kerjanya dalam mendapatkan dan bertukar informasi. Kemudian, pada tanggal 30 April 1993, secara resmi CERN yang merupakan laboratorium fisika di Swiss mengumumkan tentang perilisan website secara gratis.
 
 Sebelum itu pada tahun 1990, Tim Berners-Lee juga menuliskan tentang tiga teknologi dasar web, antara lain
+
+
+Cara Membukate
+Setelah mengetahui apa itu website, Anda perlu tahu cara membuka website yang sangat mudah.
+ Kamu hanya memerlukan sebuah browser, seperti Chrome, Firefox, Safari, dan sejenisnya.
+  Setelah itu, ketikkan domain atau URL yang dituju. Cara lainnya, 
+  kamu bisa mencari kata kunci sebuah website dari mesin pencari. Misalnya, 
+  jika kamu mencari piring keramik, kamu bisa mengetikkan “website piring keramik” untuk menampilkan website
+   terkait pencarianmu.
