@@ -1,0 +1,26 @@
+Website adalah kumpulan halaman dalam suatu domain yang memuat tentang berbagai informasi agar
+dapat dibaca dan dilihat oleh pengguna internet melalui sebuah mesin pencari.
+Informasi yang dapat dimuat umumnya berisi mengenai konten gambar, ilustrasi, video, dan teks untuk berbagai macam kepentingan.
+
+Biasanya untuk tampilan awal dapat diakses melalui halaman utama (homepage) menggunakan browser 
+dengan menuliskan URL yang tepat. Di dalam sebuah homepage, 
+juga memuat beberapa halaman web turunan yang saling terhubung satu dengan yang lain.
+
+Jenis Website
+Ada berbagai jenis website yang bisa kamu temukan di internet. Namun, berdasarkan kepemilikannya, jenis-jenis website adalah sebagai berikut:
+
+Website pribadi
+Jenis website yang satu ini dikelola perorangan. Biasanya, website pribadi dibuat menjadi sebuah blog gratis menggunakan layanan blogging, seperti WordPress, Blogger, Wix, dan sebagainya. Namun, ada pula website yang digunakan untuk portfolio, seperti galeri fotografi, artikel blog, portfolio video atau desain, dan sebagainya.
+
+Beberapa contoh website yang bisa kamu jadikan patokan sebagai website pribadi adalah galeri foto milik Paul Nicklen, website portofolio milik sutradara Lisette Donkersloot, gabungan portofolio foto dan videografi dari Taylor Gray, atau resumé interaktif milik Robby Leonardi.
+
+Baca juga: Cara Membuat Blog dan Mengapa Kamu Memerlukannya
+
+Website bisnis dan website perusahaan
+Jenis website ini dibuat untuk menampilkan informasi terkait brand atau profil perusahaan terkait yang bertujuan untuk menginformasikan kepada pengguna mengenai identitas mereka. Jika kamu berniat membuat website jenis ini, ada baiknya jika kamu membuat halaman khusus yang diisi dengan blog berisi artikel yang SEO-friendly demi meningkatkan popularitas website-mu.
+
+Website komunitas
+Website komunitas biasanya menggunakan ekstensi domain “.org”. Tujuan pembuatan website yang satu ini adalah untuk saling berbagi informasi antaranggota, sebagai papan informasi virtual, atau forum untuk sarana diskusi. Kamu bisa mendapatkan domain gratis berekstensi “.org” dengan membeli paket hosting minimal Warrior di Dewaweb.
+
+Website e-commerce
+Jenis website yang satu ini mengacu pada situs apa pun yang telah dibuat dengan tujuan untuk menjual barang atau layanan online. Selain menjual barang, kamu juga bisa memanfaatkan website e-commerce untuk menampilkan informasi brand-mu atau campaign yang sedang kamu jalankan dalam bisnismu.
