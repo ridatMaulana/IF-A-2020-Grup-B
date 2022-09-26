@@ -1,0 +1,5 @@
+Sejarah web pertama kali dimulai dari seorang ilmuwan yang berasal dari Inggris, bernama Tim Berners-Lee. Orang tua dari Berners juga merupakan ilmuwan komputer pada era awal dunia komputasi. 
+
+Tujuan awal dari Tim Berners yaitu untuk memudahkan para peneliti di tempat kerjanya dalam mendapatkan dan bertukar informasi. Kemudian, pada tanggal 30 April 1993, secara resmi CERN yang merupakan laboratorium fisika di Swiss mengumumkan tentang perilisan website secara gratis.
+
+Sebelum itu pada tahun 1990, Tim Berners-Lee juga menuliskan tentang tiga teknologi dasar web, antara lain
