@@ -1,0 +1,1 @@
+Cara kerja website bisa dikatakan pula dengan tahapan berikut: Client meminta halaman web browser lewat web browser. Web browser meneruskan permintaan klien ke server yang memiliki atau menyimpan data aplikasi website yang diminta client. Server akan mengolah permintaan klien.
